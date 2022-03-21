@@ -12,7 +12,7 @@ I really like to enjoy coding and thinking about code. I want to create things t
 
 - Languages: PHP, Javascript, C#, Dart.
 - Backend: Laravel, NodeJS, .NET Framework. 
-- Frontend: Vue, SCSS, Bulma, Bootstrap. 
+- Frontend: Vue, Bulma, Bootstrap. 
 - Mobile: Flutter. 
 - CMS: Wordpress.
 - Databases: MySQL, SQL Server, SQLite. 
