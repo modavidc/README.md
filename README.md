@@ -28,7 +28,15 @@ I really like to enjoy coding and thinking about code. I want to create things t
 - 🌎 Website: https://modavidc.com
 - 📰 Blog: https://blog.modavidc.com
 
-## 💡 This README profile was inspired by
+## 🤝 Contributing
 
-- https://github.com/bikatti
-- https://github.com/fmontes
+
+
+## 💡 This README was inspired by
+
+<a href = "https://github.com/bikatti">
+  <img src = "https://contrib.rocks/image?repo=bikatti/bikatti"/>
+</a>
+<a href = "https://github.com/modavidc">
+  <img src = "https://contrib.rocks/image?repo=fmontes/fmontes"/>
+</a>
