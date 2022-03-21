@@ -1,6 +1,6 @@
 ### Hi, Space Cowboy! 👋🌌
 
-My name is Cedeño, Moisés Cedeño. 
+My name Moisés Cedeño. 
 
 I am a Full-Stack Senior Developer with more than five (5) years of experience in application development, mainly web, and more recently mobile (1 year) and desktop (1 year).
 
