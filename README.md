@@ -6,9 +6,11 @@ I am a Full-Stack Senior Developer with more than five (5) years of experience i
 
 Think, Document, Design, Code, Deploy, Re-Document. This is the flow, my flow. 
 
+## 💪 Motivation
+
 I really like to enjoy coding and thinking about code.
 
-🏁 I want to create things that are useful to others and that last over time.
+I want to create things that are useful to others and that last over time.
 
 ## 🔨 Technologies I work with
 
