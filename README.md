@@ -28,10 +28,6 @@ I really like to enjoy coding and thinking about code. I want to create things t
 - 🌎 Website: https://modavidc.com
 - 📰 Blog: https://blog.modavidc.com
 
-## 🤝 Contributing
-
-
-
 ## 💡 This README was inspired by
 
 <a href = "https://github.com/bikatti">
