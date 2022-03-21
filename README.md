@@ -33,6 +33,6 @@ I really like to enjoy coding and thinking about code. I want to create things t
 <a href = "https://github.com/bikatti">
   <img src = "https://contrib.rocks/image?repo=bikatti/bikatti"/>
 </a>
-<a href = "https://github.com/modavidc">
+<a href = "https://github.com/fmontes">
   <img src = "https://contrib.rocks/image?repo=fmontes/fmontes"/>
 </a>
