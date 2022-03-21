@@ -10,14 +10,14 @@ I really like to enjoy coding and thinking about code. I want to create things t
 
 ## 🔨 Technologies I work with
 
-- Languages: PHP, Javascript, C#, Dart.
-- Backend: Laravel, NodeJS, .NET Framework. 
-- Frontend: Vue, Bulma, Bootstrap. 
-- Mobile: Flutter. 
-- CMS: Wordpress.
-- Databases: MySQL, SQL Server, SQLite. 
-- DevOps: SSH, Apache, Docker.
-- OS: Ubuntu, Debian, Fedora, CentOS.
+- 📙 Languages: PHP, Javascript, C#, Dart.
+- 🖥️ Backend: Laravel, NodeJS, .NET Framework. 
+- 💻 Frontend: Vue, Bulma, Bootstrap. 
+- 📱 Mobile: Flutter. 
+- 📝 CMS: Wordpress.
+- 💾 Databases: MySQL, SQL Server, SQLite. 
+- 🗄️ DevOps: SSH, Apache, Docker.
+- 💿 OS: Ubuntu, Debian, Fedora, CentOS.
 
 ## 📫 You can find me
 
