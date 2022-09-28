@@ -17,7 +17,7 @@ I really like to enjoy coding and thinking about code. I want to create things t
 - 📝 CMS: Wordpress.
 - 💾 Databases: MySQL, SQL Server, SQLite. 
 - 🗄️ DevOps: SSH, Apache, Docker.
-- 💿 OS: Ubuntu, Debian, Fedora, CentOS.
+- 💿 OS: Ubuntu, Debian, Fedora, CentOS, Windows.
 
 ## 📫 You can find me
 
