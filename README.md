@@ -23,7 +23,7 @@ I really like to enjoy coding and thinking about code. I want to create things t
 
 - 💻 Github: https://github.com/modavidc
 - 📧 Email: [moisesdavidaaron@gmail.com](mailto:moisesdavidaaron@gmail.com)
-- 🐦 Twitter: https://twitter.com/modavidc
+- 🐦 Twitter: modavidc(https://twitter.com/modavidc){:target="_blank" rel="noopener"}
 - 💼 LinkedIn: https://www.linkedin.com/in/modavidc
 - 🌎 Website: https://modavidc.com
 - 📰 Blog: https://blog.modavidc.com
