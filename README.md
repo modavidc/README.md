@@ -21,12 +21,12 @@ I really like to enjoy coding and thinking about code. I want to create things t
 
 ## 📫 You can find me
 
-- 💻 Github: https://github.com/modavidc
+- 💻 Github: <a href="https://github.com/modavidc" target="_blank">https://github.com/modavidc</a>
 - 📧 Email: [moisesdavidaaron@gmail.com](mailto:moisesdavidaaron@gmail.com)
-- 🐦 Twitter: [modavidc](https://twitter.com/modavidc){:target="_blank" rel="noopener"}
-- 💼 LinkedIn: https://www.linkedin.com/in/modavidc
-- 🌎 Website: https://modavidc.com
-- 📰 Blog: https://blog.modavidc.com
+- 🐦 Twitter: <a href="https://twitter.com/modavidc" target="_blank">https://twitter.com/modavidc</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/modavidc" target="_blank">https://www.linkedin.com/in/modavidc</a> 
+- 🌎 Website: <a href="https://modavidc.com" target="_blank">https://modavidc.com</a>  
+- 📰 Blog: <a href="https://blog.modavidc.com" target="_blank">https://blog.modavidc.com</a>  
 
 ## 💡 This README was inspired by
 
