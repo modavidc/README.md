@@ -2,9 +2,7 @@
 
 My name Moisés Cedeño. 
 
-I am a Full-Stack Senior Developer with more than five (5) years of experience in application development, mainly web, and more recently mobile (1 year) and desktop (1 year).
-
-Think, Document, Design, Code, Deploy, Re-Document. This is the flow, my flow. 
+Solutions architect and software developer with more than 8 years of experience in the design and development of web, APIs and mobile applications. I specialize in technologies such as PHP with Laravel, Node.js for the backend, C# with Windows Forms and .NET Framework for desktop applications, as well as Dart and Flutter for mobile development. In the cloud, I have experience with AWS and the ability to adapt and work with diverse technologies to create robust and scalable solutions regardless of platform.
 
 I really like to enjoy coding and thinking about code. I want to create things that are useful to others and that last over time.
 
